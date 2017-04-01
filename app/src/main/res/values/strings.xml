@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">jonintent2</string>
+    <string name="title_activity_get_intent">Map</string>
+</resources>

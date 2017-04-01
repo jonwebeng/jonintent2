@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/7e68ad3991484182f42f112d4a8921f73c581ae0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb1265be440c847b65d424cc326352b46f4bfc6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/9894d3d64639552b788f3f2b777ad5d0f90d6266/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1faa72027187020cdc8f15e74417b858240070b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/1f895cfbb4fe296bb5abcef48115a3d86d6e339a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_772c4126d84e2baf602173113de64c1edf8a0e3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/d26ea4298259d5080bcbf782124562d39b89f5b6/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_708aa599ccf4f6c9f94b00e3a8826a461ffd9172/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/7b9dc0738aaf54b17cb9bac370fb2899a553a144/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_566988b35249da755453a1abc7fb6bbdc8f00f4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4cdffb8f122501ee44339f3a14385a3c2d0d293e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/ad60bd1c2218c4021d772c1eb0a896eb2e769c56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce25aa4428e05cbc4f331a500b0a88a133a1494e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14244fea3c2a2e3983b9d3e3bf70afd263967ca1">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_14152ef982939e3780e336fd1328c43ba5f60069/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/58563c821b917799f5313ea0d507bc71582208f9/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f6ea6793cda6d66e30fe3611ee9df7417d452a72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/1f895cfbb4fe296bb5abcef48115a3d86d6e339a/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dc72d7e2c46b874d97c5e7d1f21498d610a04fb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/58563c821b917799f5313ea0d507bc71582208f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b08ce9c31d5aafbea3af3ea60ef52b36316f7af4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/d26ea4298259d5080bcbf782124562d39b89f5b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_531bc58237700c524dce81afef95bc722d19e6c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/346b2ecdbfb7304f6d7cac6e8cc9e82bb47fd3bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d63903a85382ad58696e343de76144b5f90ca100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/346b2ecdbfb7304f6d7cac6e8cc9e82bb47fd3bb/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_87e966aaff00e22a47bc16c55b1007bfbd70ac6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/9894d3d64639552b788f3f2b777ad5d0f90d6266/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e39eb98ba7f79c6990e5b49ac32c3b4da0aeba77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jonskynet/.android/build-cache/5a3ffdaef92ce705cbbf914915adf7395567e49b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jonskynet/Documents/Test/jonintent2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d98ae1606c92a6be1953afd5cac68c791ab38432/classes.dex" />
+    </item>
+
+</items>
